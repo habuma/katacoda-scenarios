@@ -1,0 +1,30 @@
+{
+  "title": "Simple Scenario",
+  "description": "Just a simple scenario",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Create a directory",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Touch a file",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu1904"
+  }
+}
